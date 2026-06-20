@@ -7,8 +7,8 @@ Three models were trained on an Apple M1 Pro chip using the tiny architecture (~
 | Experiment | Learning Rate | Final Val Loss |
 |------------|--------------|----------------|
 | tiny-v2    | 3e-4         | ~2.05          |
-| tiny-v3    | 3e-3         | ~1.80          |
-| tiny-v4    | 8e-3         | ~1.95          |
+| tiny-v3    | 3e-3         | ~1.81          |
+| tiny-v4    | 8e-3         | ~1.86          |
 
 The optimal learning rate was found to be approximately 3e-3, achieving the lowest validation loss and fastest convergence.
 
