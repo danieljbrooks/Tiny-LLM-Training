@@ -1,7 +1,11 @@
 # Data directories
-data/
-checkpoints/
-logs/
+data/*
+!data/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+logs/*
+!logs/.gitkeep
+!logs/loss_curves.png
 
 # Python
 __pycache__/
