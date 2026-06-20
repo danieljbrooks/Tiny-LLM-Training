@@ -1,8 +1,8 @@
 # Tiny-LLM-Training
 
-Minimal PyTorch implementation for training small language models (1M-33M parameters) on the TinyStories dataset, optimized for M2 MacBook with MPS acceleration.
+Minimal PyTorch implementation for training small language models (1M-33M parameters) on the TinyStories dataset. 
 
-See [results.md](results.md) for training curves and example story continuations.
+See [results.md](results.md) for training curves and example stories. 
 
 ## Features
 
