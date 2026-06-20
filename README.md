@@ -1,4 +1,4 @@
-# Tiny-LLM-Benchmarks
+# Tiny-LLM-Training
 
 Minimal PyTorch implementation for training small language models (1M-33M parameters) on the TinyStories dataset, optimized for M2 MacBook with MPS acceleration.
 
